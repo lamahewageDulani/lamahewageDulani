@@ -1,19 +1,3 @@
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-23368
-Fork on GitHub
-7948
-
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Dulani</h1>
 <h3 align="center">A passionate software developer who works on both frontend and backend development, as well as UI design.</h3>
 
